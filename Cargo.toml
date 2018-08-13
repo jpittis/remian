@@ -1,0 +1,10 @@
+[package]
+name = "remian"
+version = "0.1.0"
+authors = ["Jake Pittis <jakepittis@gmail.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+helix = "*"
